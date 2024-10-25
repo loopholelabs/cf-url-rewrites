@@ -3,4 +3,6 @@
 
 interface Env {
 	REWRITE_HOSTNAME: "";
+	APPEND_PATH: "";
+	HANDLE_ROBOTS: false;
 }
